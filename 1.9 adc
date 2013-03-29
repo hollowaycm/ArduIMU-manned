@@ -1,4 +1,3 @@
-
 #if BOARD_VERSION < 3
 // We are using an oversampling and averaging method to increase the ADC resolution
 // The theorical ADC resolution is now 11.7 bits. Now we store the ADC readings in float format
